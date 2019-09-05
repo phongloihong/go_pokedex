@@ -1,2 +1,4 @@
 # go_pokedex
-Call pokedex api and insert to mongo
+
+Call pokeapi in https://pokeapi.co/ to get pokemon list
+Insert api response to mongodb
